@@ -12,6 +12,7 @@
 * [Animal SNS Web Project]()   
 * [English Word Studying Program Project]()   
 * [Computer Network Chatting Project]()   
+* [Open-Nero IDA* Algorithm Project]()   
 * [ADNI Prediction Project](https://github.com/jaeyun95/AD_Prediction)   
 * [Knowledge Extraction System Project](https://github.com/jaeyun95/KnowledgeExtraction)   
 
