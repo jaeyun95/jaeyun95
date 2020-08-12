@@ -1,10 +1,17 @@
 <div align=center>
   
-### Jaeyun's Github 
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/jaeyoon_95)](https://blog.naver.com/jaeyoon_95)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaeyun95%2Fhit-counter)](https://hits.seeyoufarm.com)
+
+</div>
+
+## Jaeyun's Github   
+
+### Machine Learning Engineer
+
+<div align=center>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaeyun95)](https://github.com/anuraghazra/github-readme-stats)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/jaeyoon_95)](https://blog.naver.com/jaeyoon_95)
 
 </div>
 <!--
