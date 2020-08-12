@@ -8,23 +8,28 @@
 ---
 ## My Project!   
 * [Shopping Mall Web Project](https://github.com/jaeyun95/SoftwareSE_WebProject)   
-* [OD App Project](https://github.com/jaeyun95/OD)   
+* [OD App Project](https://github.com/jaeyun95/OD)
+* [Animal SNS Web Project]()   
+* [English Word Studying Program Project]()   
+* [Computer Network Chatting Project]()   
 * [ADNI Prediction Project](https://github.com/jaeyun95/AD_Prediction)   
 * [Knowledge Extraction System Project](https://github.com/jaeyun95/KnowledgeExtraction)   
 
 ## My Papers!
-* [Detecting Visual Attributes and Spatial Relationships with Deep Neural Networks](https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=total&searchCate=literature&literature=Y&more=Y&research=Y&pg=2&gu=INME001F8&cmd=qryview&SnxIndxNum=213385&q1_yy=2018&q1_mm=05&rownum=16&totalCnt=135&q1_t=6rmA7J247LKg&listUrl=L2xpdGVyYXR1cmUvcmVzdWx0LnBocD9TbnhHdWJ1bj1JTk1FJm1vZGU9dG90YWwmc2VhcmNoQ2F0ZT1saXRlcmF0dXJlJmxpdGVyYXR1cmU9WSZxMT0lQjElRTglQzAlQ0UlQzMlQjYmbW9yZT1ZJmYxPU1OJnJlc2VhcmNoPVkmcGc9Mg==&f1=MN&q1=%B1%E8%C0%CE%C3%B6)   
-* [Design and Implementation of Episodic Memory for Context Management](https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=total&searchCate=literature&literature=Y&more=Y&research=Y&pg=2&gu=INME001F9&cmd=qryview&SnxIndxNum=219264&q1_yy=2018&q1_mm=11&rownum=11&totalCnt=135&q1_t=6rmA7J247LKg&listUrl=L2xpdGVyYXR1cmUvcmVzdWx0LnBocD9TbnhHdWJ1bj1JTk1FJm1vZGU9dG90YWwmc2VhcmNoQ2F0ZT1saXRlcmF0dXJlJmxpdGVyYXR1cmU9WSZxMT0lQjElRTglQzAlQ0UlQzMlQjYmbW9yZT1ZJmYxPU1OJnJlc2VhcmNoPVkmcGc9Mg==&f1=MN&q1=%B1%E8%C0%CE%C3%B6)   
-* [Visual Commonsense Reasoning with Knowledge Graph](http://kips.or.kr/bbs/confn/article/1024)   
-* [KG_VCR: A Visual Commonsense Reasoning Model Using Knowledge Graph](http://ktsde.kips.or.kr/digital-library/23377)   
+* [Detecting Visual Attributes and Spatial Relationships with Deep Neural Networks](https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=total&searchCate=literature&literature=Y&more=Y&research=Y&pg=2&gu=INME001F8&cmd=qryview&SnxIndxNum=213385&q1_yy=2018&q1_mm=05&rownum=16&totalCnt=135&q1_t=6rmA7J247LKg&listUrl=L2xpdGVyYXR1cmUvcmVzdWx0LnBocD9TbnhHdWJ1bj1JTk1FJm1vZGU9dG90YWwmc2VhcmNoQ2F0ZT1saXRlcmF0dXJlJmxpdGVyYXR1cmU9WSZxMT0lQjElRTglQzAlQ0UlQzMlQjYmbW9yZT1ZJmYxPU1OJnJlc2VhcmNoPVkmcGc9Mg==&f1=MN&q1=%B1%E8%C0%CE%C3%B6)-2018KIPS   
+* [Design and Implementation of Episodic Memory for Context Management](https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=total&searchCate=literature&literature=Y&more=Y&research=Y&pg=2&gu=INME001F9&cmd=qryview&SnxIndxNum=219264&q1_yy=2018&q1_mm=11&rownum=11&totalCnt=135&q1_t=6rmA7J247LKg&listUrl=L2xpdGVyYXR1cmUvcmVzdWx0LnBocD9TbnhHdWJ1bj1JTk1FJm1vZGU9dG90YWwmc2VhcmNoQ2F0ZT1saXRlcmF0dXJlJmxpdGVyYXR1cmU9WSZxMT0lQjElRTglQzAlQ0UlQzMlQjYmbW9yZT1ZJmYxPU1OJnJlc2VhcmNoPVkmcGc9Mg==&f1=MN&q1=%B1%E8%C0%CE%C3%B6)-2018KIPS   
+* [Visual Commonsense Reasoning with Knowledge Graph](http://kips.or.kr/bbs/confn/article/1024)-2019KIPS   
+* [KG_VCR: A Visual Commonsense Reasoning Model Using Knowledge Graph](http://ktsde.kips.or.kr/digital-library/23377)-2020KTSDE   
+* [Image-Language Co-embedding and Knowledge Graph Embedding for Visual Commonsense Reasoning]()-2020KCC   
+* [Visual Commonsense Reasoning with Vision-Language Co-embedding and Knowledge Graph Embedding]()-2020JOK   
 
 ## My Awards!
 * 2018 춘계 정보처리학회 은상
 * 2019 추계 정보처리학회 우수논문상
-* 2019 한국정보기술학술단체 총연합회 우수논문상
+* 2019 한국정보기술학술단체총연합회 우수논문상
 * 2020 하계 정보과학회 우수발표논문상   
 
-## Study with Jaeyun!   
+## My Studies! 
 * [Study Algorithm](https://github.com/jaeyun95/Algorithm)   
 * [Study Programmers](https://github.com/jaeyun95/Programmers)   
 * [Study Basic Artificial Intelligence](https://github.com/jaeyun95/AI-Study)   
