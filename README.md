@@ -1,6 +1,10 @@
 <div align=center>
   
-### Jaeyun's Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaeyun95%2Fhit-counter)](https://hits.seeyoufarm.com)
+### Jaeyun's Github 
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/jaeyoon_95)](https://blog.naver.com/jaeyoon_95)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaeyun95%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 </div>
 <!--
