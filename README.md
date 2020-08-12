@@ -4,7 +4,42 @@
 
 </div>
 
-## Jaeyun's Github😊   
+# Jaeyun's GitHub😊
+---
+## My Project!   
+* [Shopping Mall Web Project](https://github.com/jaeyun95/SoftwareSE_WebProject)   
+* [OD App Project](https://github.com/jaeyun95/OD)   
+* [ADNI Prediction Project](https://github.com/jaeyun95/AD_Prediction)   
+* [Knowledge Extraction System Project](https://github.com/jaeyun95/KnowledgeExtraction)   
+
+## My Papers!
+* [Detecting Visual Attributes and Spatial Relationships with Deep Neural Networks](https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=total&searchCate=literature&literature=Y&more=Y&research=Y&pg=2&gu=INME001F8&cmd=qryview&SnxIndxNum=213385&q1_yy=2018&q1_mm=05&rownum=16&totalCnt=135&q1_t=6rmA7J247LKg&listUrl=L2xpdGVyYXR1cmUvcmVzdWx0LnBocD9TbnhHdWJ1bj1JTk1FJm1vZGU9dG90YWwmc2VhcmNoQ2F0ZT1saXRlcmF0dXJlJmxpdGVyYXR1cmU9WSZxMT0lQjElRTglQzAlQ0UlQzMlQjYmbW9yZT1ZJmYxPU1OJnJlc2VhcmNoPVkmcGc9Mg==&f1=MN&q1=%B1%E8%C0%CE%C3%B6)   
+* [Design and Implementation of Episodic Memory for Context Management](https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=total&searchCate=literature&literature=Y&more=Y&research=Y&pg=2&gu=INME001F9&cmd=qryview&SnxIndxNum=219264&q1_yy=2018&q1_mm=11&rownum=11&totalCnt=135&q1_t=6rmA7J247LKg&listUrl=L2xpdGVyYXR1cmUvcmVzdWx0LnBocD9TbnhHdWJ1bj1JTk1FJm1vZGU9dG90YWwmc2VhcmNoQ2F0ZT1saXRlcmF0dXJlJmxpdGVyYXR1cmU9WSZxMT0lQjElRTglQzAlQ0UlQzMlQjYmbW9yZT1ZJmYxPU1OJnJlc2VhcmNoPVkmcGc9Mg==&f1=MN&q1=%B1%E8%C0%CE%C3%B6)   
+* [Visual Commonsense Reasoning with Knowledge Graph](http://kips.or.kr/bbs/confn/article/1024)   
+* [KG_VCR: A Visual Commonsense Reasoning Model Using Knowledge Graph](http://ktsde.kips.or.kr/digital-library/23377)   
+
+## My Awards!
+* 2018 춘계 정보처리학회 은상
+* 2019 추계 정보처리학회 우수논문상
+* 2019 한국정보기술학술단체 총연합회 우수논문상
+* 2020 하계 정보과학회 우수발표논문상   
+
+## Study with Jaeyun!   
+* [Study Algorithm](https://github.com/jaeyun95/Algorithm)   
+* [Study Programmers](https://github.com/jaeyun95/Programmers)   
+* [Study Basic Artificial Intelligence](https://github.com/jaeyun95/AI-Study)   
+* [Study Computer Vision](https://github.com/jaeyun95/Computer_Vision)   
+* [Study Natural Language Processing](https://github.com/jaeyun95/Natural_Language_Processing)   
+* [Study Knowledge Processing](https://github.com/jaeyun95/Knowledge_Processing)   
+* [Study Deep Graph Library](https://github.com/jaeyun95/DGL)   
+* [Study Robot Operating System](https://github.com/jaeyun95/ROS)   
+* [Study Prolog](https://github.com/jaeyun95/Prolog)   
+* [Study Ontology](https://github.com/jaeyun95/Ontology)   
+* [Study T-Academy Talk On seminar](https://github.com/jaeyun95/T-Academy)   
+* [Study English](https://github.com/jaeyun95/EnglishStudy)   
+
+
+
 
 <div align=center>
 
