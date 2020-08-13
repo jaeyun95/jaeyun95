@@ -6,10 +6,10 @@
 
 # Jaeyun's GitHub😊
 ---
-## My Project!   
+## My Projects!   
 * [Shopping Mall Web Project](https://github.com/jaeyun95/SoftwareSE_WebProject)   
 * [OD App Project](https://github.com/jaeyun95/OD)
-* [Animal SNS Web Project]()   
+* [Animal SNS Web Project](https://github.com/jaeyun95/ANIMAL)   
 * [English Word Studying Program Project]()   
 * [Computer Network Chatting Project]()   
 * [Open-Nero IDA* Algorithm Project]()   
