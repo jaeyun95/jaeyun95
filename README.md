@@ -10,7 +10,7 @@
 * [Shopping Mall Web Project](https://github.com/jaeyun95/SoftwareSE_WebProject)   
 * [OD App Project](https://github.com/jaeyun95/OD)
 * [Animal SNS Web Project](https://github.com/jaeyun95/ANIMAL)   
-* [English Word Game Project]()   
+* [Word Game Project](https://github.com/jaeyun95/WordGame)   
 * [Computer Network Chatting Project]()   
 * [Open-Nero IDA* Algorithm Project]()   
 * [ADNI Prediction Project](https://github.com/jaeyun95/AD_Prediction)   
