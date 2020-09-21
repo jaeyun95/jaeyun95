@@ -22,7 +22,7 @@
 * [Design and Implementation of Episodic Memory for Context Management](https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=total&searchCate=literature&literature=Y&more=Y&research=Y&pg=2&gu=INME001F9&cmd=qryview&SnxIndxNum=219264&q1_yy=2018&q1_mm=11&rownum=11&totalCnt=135&q1_t=6rmA7J247LKg&listUrl=L2xpdGVyYXR1cmUvcmVzdWx0LnBocD9TbnhHdWJ1bj1JTk1FJm1vZGU9dG90YWwmc2VhcmNoQ2F0ZT1saXRlcmF0dXJlJmxpdGVyYXR1cmU9WSZxMT0lQjElRTglQzAlQ0UlQzMlQjYmbW9yZT1ZJmYxPU1OJnJlc2VhcmNoPVkmcGc9Mg==&f1=MN&q1=%B1%E8%C0%CE%C3%B6)-2018KIPS   
 * [Visual Commonsense Reasoning with Knowledge Graph](http://kips.or.kr/bbs/confn/article/1024)-2019KIPS   
 * [KG_VCR: A Visual Commonsense Reasoning Model Using Knowledge Graph](http://ktsde.kips.or.kr/digital-library/23377)-2020KTSDE   
-* [Image-Language Co-embedding and Knowledge Graph Embedding for Visual Commonsense Reasoning]()-2020KCC   
+* [Image-Language Co-embedding and Knowledge Graph Embedding for Visual Commonsense Reasoning](http://www.kiise.or.kr/academy/board/publishList2.fa?MENU_ID=060500)-2020KCC   
 * [Visual Commonsense Reasoning with Vision-Language Co-embedding and Knowledge Graph Embedding]()-2020JOK   
 
 ## My Awards!
