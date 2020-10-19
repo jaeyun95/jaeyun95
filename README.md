@@ -6,7 +6,7 @@
 
 # Jaeyun's GitHub:relaxed:
 ---
-## 💻My Projects💻   
+## 💻My Projects   
 * [Shopping Mall Web Project](https://github.com/jaeyun95/SoftwareSE_WebProject)   
 * [OD App Project](https://github.com/jaeyun95/OD)
 * [Animal SNS Web Project](https://github.com/jaeyun95/ANIMAL)   
@@ -18,7 +18,7 @@
 * [Knowledge Extraction System Project ver2.0](https://github.com/jaeyun95/KnowledgeExtraction_vers2.0)   
 * [TA for AI Class:GAN Project](https://github.com/jaeyun95/GAN_project)   
 
-## 🎓My Papers🎓
+## 🎓My Papers
 * [Detecting Visual Attributes and Spatial Relationships with Deep Neural Networks](https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=total&searchCate=literature&literature=Y&more=Y&research=Y&pg=2&gu=INME001F8&cmd=qryview&SnxIndxNum=213385&q1_yy=2018&q1_mm=05&rownum=16&totalCnt=135&q1_t=6rmA7J247LKg&listUrl=L2xpdGVyYXR1cmUvcmVzdWx0LnBocD9TbnhHdWJ1bj1JTk1FJm1vZGU9dG90YWwmc2VhcmNoQ2F0ZT1saXRlcmF0dXJlJmxpdGVyYXR1cmU9WSZxMT0lQjElRTglQzAlQ0UlQzMlQjYmbW9yZT1ZJmYxPU1OJnJlc2VhcmNoPVkmcGc9Mg==&f1=MN&q1=%B1%E8%C0%CE%C3%B6)-2018KIPS   
 * [Design and Implementation of Episodic Memory for Context Management](https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=total&searchCate=literature&literature=Y&more=Y&research=Y&pg=2&gu=INME001F9&cmd=qryview&SnxIndxNum=219264&q1_yy=2018&q1_mm=11&rownum=11&totalCnt=135&q1_t=6rmA7J247LKg&listUrl=L2xpdGVyYXR1cmUvcmVzdWx0LnBocD9TbnhHdWJ1bj1JTk1FJm1vZGU9dG90YWwmc2VhcmNoQ2F0ZT1saXRlcmF0dXJlJmxpdGVyYXR1cmU9WSZxMT0lQjElRTglQzAlQ0UlQzMlQjYmbW9yZT1ZJmYxPU1OJnJlc2VhcmNoPVkmcGc9Mg==&f1=MN&q1=%B1%E8%C0%CE%C3%B6)-2018KIPS   
 * [Visual Commonsense Reasoning with Knowledge Graph](http://kips.or.kr/bbs/confn/article/1024)-2019KIPS   
@@ -26,13 +26,13 @@
 * [Image-Language Co-embedding and Knowledge Graph Embedding for Visual Commonsense Reasoning](http://www.kiise.or.kr/academy/board/publishList2.fa?MENU_ID=060500)-2020KCC   
 * [Visual Commonsense Reasoning with Vision-Language Co-embedding and Knowledge Graph Embedding]()-2020JOK   
 
-## 🏆My Awards🏆
+## 🏆My Awards
 * [2018 춘계정보처리학회 은상](https://github.com/jaeyun95/jaeyun95/blob/master/Awards/2018spring/README.md)   
 * [2019 추계정보처리학회 우수논문상](https://github.com/jaeyun95/jaeyun95/blob/master/Awards/2019autumn/README.md)   
 * [2019 한국정보기술학술단체총연합회 우수논문상](https://github.com/jaeyun95/jaeyun95/blob/master/Awards/2019autumn/README.md)   
 * [2020 하계정보과학회 우수발표논문상](https://github.com/jaeyun95/jaeyun95/tree/master/Awards/2020summer/README.md)   
 
-## 📖My Studies📖 
+## 📖My Studies 
 * [Study Algorithm](https://github.com/jaeyun95/Algorithm)   
 * [Study Programmers](https://github.com/jaeyun95/Programmers)   
 * [Study Basic Artificial Intelligence](https://github.com/jaeyun95/AI-Study)   
