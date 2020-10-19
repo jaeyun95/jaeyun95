@@ -2,9 +2,10 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaeyun95%2Fhit-counter)](https://hits.seeyoufarm.com)
 
-</div>
+
 
 # Jaeyun's GitHub:relaxed:
+</div>
 ---
 ## 💻My Projects   
 * [Shopping Mall Web Project](https://github.com/jaeyun95/SoftwareSE_WebProject)   
