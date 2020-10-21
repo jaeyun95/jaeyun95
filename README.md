@@ -35,18 +35,18 @@
 * [2020 하계정보과학회 우수발표논문상 / 2020 The KCC Summer Conference(Outstanding Presentation Paper Award)](https://github.com/jaeyun95/jaeyun95/tree/master/Awards/2020summer/README.md)   
 
 ## 📖My Studies 
-* [Study Algorithm](https://github.com/jaeyun95/Algorithm)   
-* [Study Programmers](https://github.com/jaeyun95/Programmers)   
-* [Study Basic Artificial Intelligence](https://github.com/jaeyun95/AI-Study)   
-* [Study Computer Vision](https://github.com/jaeyun95/Computer_Vision)   
-* [Study Natural Language Processing](https://github.com/jaeyun95/Natural_Language_Processing)   
-* [Study Knowledge Processing](https://github.com/jaeyun95/Knowledge_Processing)   
-* [Study Deep Graph Library](https://github.com/jaeyun95/DGL)   
-* [Study Robot Operating System](https://github.com/jaeyun95/ROS)   
-* [Study Prolog](https://github.com/jaeyun95/Prolog)   
-* [Study Ontology](https://github.com/jaeyun95/Ontology)   
-* [Study T-Academy Talk On seminar](https://github.com/jaeyun95/T-Academy)   
-* [Study English](https://github.com/jaeyun95/EnglishStudy)   
+* [Basic Algorithm](https://github.com/jaeyun95/Algorithm)   
+* [Programmers](https://github.com/jaeyun95/Programmers)   
+* [Basic Artificial Intelligence](https://github.com/jaeyun95/AI-Study)   
+* [Computer Vision](https://github.com/jaeyun95/Computer_Vision)   
+* [Natural Language Processing](https://github.com/jaeyun95/Natural_Language_Processing)   
+* [Knowledge Processing](https://github.com/jaeyun95/Knowledge_Processing)   
+* [Deep Graph Library](https://github.com/jaeyun95/DGL)   
+* [Robot Operating System](https://github.com/jaeyun95/ROS)   
+* [Prolog](https://github.com/jaeyun95/Prolog)   
+* [Ontology](https://github.com/jaeyun95/Ontology)   
+* [T-Academy Talk On seminar](https://github.com/jaeyun95/T-Academy)   
+* [English](https://github.com/jaeyun95/EnglishStudy)   
 
 
 
