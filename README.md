@@ -35,6 +35,7 @@
 * [2020 하계정보과학회 우수발표논문상 / 2020 The KCC Summer Conference(Outstanding Presentation Paper Award)](https://github.com/jaeyun95/jaeyun95/tree/master/Awards/2020summer/README.md)   
 
 ## 📖My Studies 
+* [Pre-trained Model Summary](https://github.com/jaeyun95/pre-trained-vl-model)   
 * [Basic Algorithm](https://github.com/jaeyun95/Algorithm)   
 * [Programmers](https://github.com/jaeyun95/Programmers)   
 * [Basic Artificial Intelligence](https://github.com/jaeyun95/AI-Study)   
