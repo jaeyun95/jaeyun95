@@ -8,6 +8,11 @@
 </div>   
 
 ---
+## 🏠My HomePages
+* [Naver Blog](https://blog.naver.com/jaeyoon_95)   
+* [Tistory](https://jaeyoon-95.tistory.com/)   
+* [Velog](https://velog.io/@jaeyun95)   
+
 ## 💻My Projects   
 * [Shopping Mall Web Project](https://github.com/jaeyun95/SoftwareSE_WebProject)   
 * [OD App Project](https://github.com/jaeyun95/OD)
