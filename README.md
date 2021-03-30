@@ -24,8 +24,6 @@
 * [OD App Project](https://github.com/jaeyun95/OD)
 * [Animal SNS Web Project](https://github.com/jaeyun95/ANIMAL)   
 * [Word Game Project](https://github.com/jaeyun95/WordGame)   
-* [Computer Network Chatting Project]()   
-* [Open-Nero IDA* Algorithm Project]()   
 
 
 
