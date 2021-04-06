@@ -15,6 +15,7 @@
 
 ## 💻My Projects   
 * [KG_VCR](https://github.com/jaeyun95/KG_VCR)
+* [VLKG_VCR](https://github.com/jaeyun95/VLKG_VCR)
 * [ViLaKC](https://github.com/jaeyun95/ViLaKC)
 * [Knowledge Extraction System Project](https://github.com/jaeyun95/KnowledgeExtraction)   
 * [Knowledge Extraction System Project ver2.0](https://github.com/jaeyun95/KnowledgeExtraction_vers2.0)   
