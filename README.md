@@ -41,6 +41,7 @@
 
 ## 📖My Studies   
 * [Paper model](https://github.com/jaeyun95/paper_models)
+* [Data Analysis](https://github.com/jaeyun95/data_analysis)
 * [Graph Model Summary](https://github.com/jaeyun95/Graph_Model_Summary)   
 * [Pre-trained Model Summary](https://github.com/jaeyun95/pre-trained-vl-model)   
 * [Basic Algorithm](https://github.com/jaeyun95/Algorithm)   
