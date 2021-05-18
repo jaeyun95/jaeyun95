@@ -18,6 +18,7 @@
 * [VLKG_VCR](https://github.com/jaeyun95/VLKG_VCR)
 * [ViLaKC](https://github.com/jaeyun95/ViLaKC)
 * [Knowledge Extraction System Project](https://github.com/jaeyun95/KnowledgeExtraction)   
+* [AD CVR Project](https://github.com/jaeyun95/CVR_Project)   
 * [TA for AI Class : GAN Project](https://github.com/jaeyun95/GAN_project)   
 * [ADNI Prediction Project](https://github.com/jaeyun95/AD_Prediction)  
 * [Shopping Mall Web Project](https://github.com/jaeyun95/SoftwareSE_WebProject)   
