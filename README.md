@@ -34,6 +34,7 @@
 * [KG_VCR: A Visual Commonsense Reasoning Model Using Knowledge Graph](http://ktsde.kips.or.kr/digital-library/23377)-2020KTSDE   
 * [Image-Language Co-embedding and Knowledge Graph Embedding for Visual Commonsense Reasoning](http://www.kiise.or.kr/academy/board/publishList2.fa?MENU_ID=060500)-2020KCC   
 * [Visual Commonsense Reasoning with Vision-Language Co-embedding and Knowledge Graph Embedding](https://www.kiise.or.kr/academy/board/publishList2.fa?MENU_ID=060500)-2020JOK   
+* [Vision–Language–Knowledge Co-Embedding for Visual Commonsense Reasoning](https://www.mdpi.com/1424-8220/21/9/2911#cite)-2021 MDPI Sensors
 
 ## 🏆My Awards
 * [2019 추계정보처리학회 우수논문상 / 2019 The KIPS Fall Conference(Excellent thesis award)](https://github.com/jaeyun95/jaeyun95/blob/master/Awards/2019autumn/README.md)   
