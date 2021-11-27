@@ -42,6 +42,7 @@
 * [2019 추계정보처리학회 우수논문상 / 2019 The KIPS Fall Conference(Excellent thesis award)](https://github.com/jaeyun95/jaeyun95/blob/master/Awards/2019autumn/README.md)   
 * [2019 한국정보기술학술단체총연합회 우수논문상 / 2019 Korea Federation of Information Technology Societies(Excellent thesis award)](https://github.com/jaeyun95/jaeyun95/blob/master/Awards/2019autumn/README.md)   
 * [2020 하계정보과학회 우수발표논문상 / 2020 The KCC Summer Conference(Outstanding Presentation Paper Award)](https://github.com/jaeyun95/jaeyun95/tree/master/Awards/2020summer/README.md)   
+* 2021 하계정보과학회 우수논문상 SA부분 대표 / 2021 The KCC Summer Conference(Representative of SA Division for Excellent Paper Award)
 
 ## 📖My Studies   
 * [Paper model](https://github.com/jaeyun95/paper_models)
